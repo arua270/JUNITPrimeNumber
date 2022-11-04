@@ -14,7 +14,7 @@ public class PrimeNumberChecker {
 
         }
 
-        return true;
+        return false;
 
  }
 
