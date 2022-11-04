@@ -132,7 +132,6 @@ public void initialize() {
                           { 97, true },
                           { 98, false },
                           { 99, false },
-                          { 100, false },
                                                                  
                                   };
        
