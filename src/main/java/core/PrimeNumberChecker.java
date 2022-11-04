@@ -8,7 +8,7 @@ public class PrimeNumberChecker {
 
                if (primeNumber % i == 0) {
 
-                     return false;
+                     return true;
 
                }
 
